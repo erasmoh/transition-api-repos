@@ -1,0 +1,7 @@
+# Node modules
+node_modules
+*/node_modules
+
+# DS Store
+.DS_Store
+*/.DS_Store
